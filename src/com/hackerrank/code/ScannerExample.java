@@ -1,8 +1,5 @@
 package com.hackerrank.code;
 
-import java.util.Arrays;
-import java.util.Iterator;
-import java.util.List;
 import java.util.Scanner;
 
 public class ScannerExample {
@@ -15,6 +12,7 @@ public class ScannerExample {
 				arr[i][j] = in.nextInt();
 			}
 		}
+		in.close();
 	}
 
 }
