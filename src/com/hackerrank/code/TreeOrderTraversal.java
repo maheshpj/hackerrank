@@ -1,4 +1,4 @@
-package hackerrank.src.tests;
+package com.hackerrank.code;
 
 class Node {
     int data;

@@ -4,7 +4,7 @@
  * RRSSco.java
  */
 
-package hackerrank.src.tests;
+package com.hackerrank.code;
 
 
 public class RRSSco {

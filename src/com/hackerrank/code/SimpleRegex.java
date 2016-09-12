@@ -1,4 +1,4 @@
-package hackerrank.src.tests;
+package com.hackerrank.code;
 
 import java.util.ArrayList;
 import java.util.List;
