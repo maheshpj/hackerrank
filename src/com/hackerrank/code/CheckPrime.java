@@ -1,3 +1,5 @@
+package com.hackerrank.code;
+
 import java.io.BufferedReader;
 import java.lang.reflect.Method;
 import java.util.HashSet;

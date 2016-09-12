@@ -1,3 +1,5 @@
+package com.hackerrank.code;
+
 import java.util.stream.IntStream;
 
 public class Staircase {

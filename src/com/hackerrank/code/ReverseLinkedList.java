@@ -1,3 +1,5 @@
+package com.hackerrank.code;
+
 import java.util.LinkedList;
 import java.util.List;
 

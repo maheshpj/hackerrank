@@ -1,3 +1,5 @@
+package com.hackerrank.code;
+
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,3 +1,5 @@
+package com.hackerrank.code;
+
 import java.util.Scanner;
 
 public class ArrayLeftRotation {
