@@ -1,4 +1,4 @@
-package test;
+package hackerrank.src.tests;
 
 import static java.util.stream.Collectors.groupingBy;
 
